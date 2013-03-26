@@ -12,6 +12,13 @@ namespace ProjectForLerningFings
 		{
 			Console.WriteLine("Hello GIT! :) ");
 			Console.WriteLine("New content for branch");
+
+
+			Console.WriteLine("New content for branch");
+			Console.WriteLine("New content for branch");
+			Console.WriteLine("New content for branch");
+			Console.WriteLine("New content for branch");
+			Console.WriteLine("New content for branch");
 		}
 	}
 }
